@@ -126,7 +126,7 @@ export function About() {
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="/raul-machado.png"
+                  src="/profile-main.png"
                   alt="Raul Machado"
                   style={{
                     width: "100%",
