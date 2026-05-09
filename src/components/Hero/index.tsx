@@ -69,7 +69,7 @@ export function Hero() {
               background: "rgba(76,151,238,0.06)",
             }}
           >
-            Diseño · Código · Estrategia
+            Talento · Estrategia · Liderazgo
           </motion.span>
 
           {/* H1 */}
@@ -83,7 +83,7 @@ export function Hero() {
               marginBottom: 28,
             }}
           >
-            <span style={{ color: colors.text }}>Elevando ideas</span>
+            <span style={{ color: colors.text }}>Conectando el</span>
             <br />
             <span
               style={{
@@ -93,10 +93,10 @@ export function Hero() {
                 backgroundClip: "text",
               }}
             >
-              más allá de la
+              talento global
             </span>
             <br />
-            <span style={{ color: colors.text }}>gravedad.</span>
+            <span style={{ color: colors.text }}>con LATAM.</span>
           </motion.h1>
 
           {/* Subheadline */}
@@ -111,9 +111,9 @@ export function Hero() {
               fontWeight: 300,
             }}
           >
-            Diseñador y desarrollador de productos digitales premium. Creo
-            experiencias que combinan elegancia, tecnología y estrategia para
-            transformar marcas en referentes.
+            Potencio operaciones internacionales construyendo equipos
+            de alto rendimiento. Estrategia y reclutamiento enfocados
+            en el éxito y la integración cultural.
           </motion.p>
 
           {/* CTAs */}

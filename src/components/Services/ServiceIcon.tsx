@@ -1,14 +1,14 @@
 "use client";
-import { Code2, Layers, Cpu, Globe, Zap, Star } from "lucide-react";
+import { Users, HeartHandshake, LineChart, Globe, SmilePlus, Languages } from "lucide-react";
 import type { LucideProps } from "lucide-react";
 
 const iconMap: Record<string, React.ComponentType<LucideProps>> = {
-  Code2,
-  Layers,
-  Cpu,
+  Users,
+  HeartHandshake,
+  LineChart,
   Globe,
-  Zap,
-  Star,
+  SmilePlus,
+  Languages,
 };
 
 interface Props {
