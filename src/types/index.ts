@@ -21,6 +21,7 @@ export interface Project {
   year:     string;
   desc:     string;
   href?:    string;
+  image?:   string;
 }
 
 export interface Testimonial {
