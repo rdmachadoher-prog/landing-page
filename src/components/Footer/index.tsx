@@ -1,9 +1,10 @@
 "use client";
 import { Twitter, Linkedin, Instagram } from "lucide-react";
+import type { LucideProps } from "lucide-react";
 import { socialLinks } from "@/data";
 import { colors, fonts } from "@/styles/tokens";
 
-const iconMap: Record<string, React.ComponentType<{ size: number }>> = {
+const iconMap: Record<string, React.ComponentType<LucideProps>> = {
   Instagram: Instagram,
   Twitter:  Twitter,
   LinkedIn: Linkedin,
